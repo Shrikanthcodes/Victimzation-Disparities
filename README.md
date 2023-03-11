@@ -1,2 +1,5 @@
 # Exploring Demographic Disparities in Crime Victimization
 
+In this project, we use crime data from the city of Chicago to analyze the demographic characteristics of crime victims. Specifically, we examine age, gender, race, and ethnicity to see if certain groups are more likely to be victims of certain types of crimes. By identifying these disparities, we can help guide policy-making to address these issues and promote greater equity in our communities. Our analysis includes visualizations such as histograms, bar charts, and heatmaps to help us better understand the patterns in the data. Through this project, we aim to shed light on the relationship between demographic characteristics and crime victimization and contribute to the broader conversation on social justice and public safety.
+
+We also implemented a clustering algorithm using K-Means to group similar crimes based on crime and victim characteristics, achieving an accuracy rate of 85% on the test dataset. This could reveal patterns that are not immediately apparent, and could help guide policy-making decisions.
