@@ -1,2 +1,2 @@
-# victimizationdisparity
-Exploring Demographic Disparities in Crime Victimization 
+# Exploring Demographic Disparities in Crime Victimization
+
